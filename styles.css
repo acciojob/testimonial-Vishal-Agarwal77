@@ -20,6 +20,8 @@ h1{
 }
 p{
 	background-color:white;
+}
+p.auth{
 	text-align:right;
 	font-style:italic;
 }
